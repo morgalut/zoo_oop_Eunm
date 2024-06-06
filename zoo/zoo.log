@@ -1,0 +1,7 @@
+2024-06-06 19:44:43,788 - zoo_logger - INFO - Debugging enabled
+2024-06-06 19:44:43,788 - zoo_logger - DEBUG - Creating LION named Simba
+2024-06-06 19:44:43,789 - zoo_logger - DEBUG - Creating ELEPHANT named Dumbo
+2024-06-06 19:44:43,790 - zoo_logger - DEBUG - Simba the Lion roars
+2024-06-06 19:44:43,790 - zoo_logger - DEBUG - Simba the Lion stalks its prey
+2024-06-06 19:44:43,847 - zoo_logger - DEBUG - Dumbo the Elephant trumpets
+2024-06-06 19:44:43,848 - zoo_logger - DEBUG - Dumbo the Elephant lumbers along
